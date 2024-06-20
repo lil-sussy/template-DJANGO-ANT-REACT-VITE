@@ -236,7 +236,7 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'static/')
 STATICFILES_DIRS = [
     # os.path.join(BASE_DIR, 'static/database/judgment_files'),
     os.path.join(BASE_DIR, 'frontend/build/static/'),
-    os.path.join(BASE_DIR, 'frontend/build/'),
+    os.path.join(BASE_DIR, 'frontend/public/'),
 ]
 STATICFILES_FINDERS = [
     'django.contrib.staticfiles.finders.FileSystemFinder',
