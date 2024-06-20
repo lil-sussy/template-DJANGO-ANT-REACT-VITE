@@ -1,4 +1,4 @@
-# Template DR:Turbo-Ant stack
+# Template DR:Vite-Ant stack
 Tech stack : django, react, scss, npm, turbo pack, ant design
 
 ### Middleware
